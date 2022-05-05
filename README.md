@@ -1,6 +1,9 @@
 # flutter_todolist
 
-A new Flutter project.
+This is a Todo List application made with flutter for Android.
+
+- You can easily add and delete new entries
+- As well as view previous ones
 
 ## Getting Started
 
